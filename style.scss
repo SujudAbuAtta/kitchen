@@ -7,17 +7,22 @@
 
 @import "reset";
 @import "variables";
-@import "fonts";
+//@import "fonts";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
 
+
+
+
+
 html {
   direction: rtl;
   font-size: 100%;
   height: 100%;
+  color: #444;
 }
 
 body {
